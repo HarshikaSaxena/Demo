@@ -2,6 +2,6 @@
 {
    void m1()
    {
-      //some code
+      System.out.println("hello java lovers")
    }
 }
